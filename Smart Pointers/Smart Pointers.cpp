@@ -1,4 +1,4 @@
-//домашнє завдання № 26 артyp
+
 #include <iostream>
 
 #include <vector>
